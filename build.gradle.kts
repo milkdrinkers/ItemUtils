@@ -26,7 +26,7 @@ subprojects {
         maven("https://repo.papermc.io/repository/maven-public/")
         maven("https://repo.nexomc.com/releases")
         maven("https://repo.oraxen.com/releases")
-        maven("https://maven.devs.beer") // ItemsAdder API Dependency
+        maven("https://maven.devs.beer/") // ItemsAdder API Dependency
     }
 
     dependencies {
