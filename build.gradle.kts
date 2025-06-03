@@ -34,7 +34,7 @@ subprojects {
         annotationProcessor(rootProject.libs.annotations)
         compileOnly(rootProject.libs.paper)
 
-        compileOnly(files("libs/api-itemsadder-4.0.10.jar"))
+        compileOnly(files("${rootProject.projectDir}/libs/api-itemsadder-4.0.10.jar"))
         compileOnly(rootProject.libs.nexo)
         compileOnly(rootProject.libs.oraxen)
 
