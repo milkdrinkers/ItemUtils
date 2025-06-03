@@ -24,9 +24,9 @@ subprojects {
     repositories {
         mavenCentral()
         maven("https://repo.papermc.io/repository/maven-public/")
+        maven("https://maven.devs.beer/") // ItemsAdder API Dependency
         maven("https://repo.nexomc.com/releases")
         maven("https://repo.oraxen.com/releases")
-        maven("https://maven.devs.beer/") // ItemsAdder API Dependency
     }
 
     dependencies {
@@ -34,9 +34,9 @@ subprojects {
         annotationProcessor(rootProject.libs.annotations)
         compileOnly(rootProject.libs.paper)
 
+        compileOnly(rootProject.libs.itemsadder)
         compileOnly(rootProject.libs.nexo)
         compileOnly(rootProject.libs.oraxen)
-        compileOnly(rootProject.libs.itemsadder)
 
         testImplementation(rootProject.libs.annotations)
         testImplementation(platform(rootProject.libs.junit.bom))
