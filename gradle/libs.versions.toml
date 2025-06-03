@@ -2,7 +2,7 @@
 
 [libraries]
 annotations = "org.jetbrains:annotations:26.0.2"
-paper = "io.papermc.paper:paper-api:1.20.6-R0.1-SNAPSHOT"
+paper = "io.papermc.paper:paper-api:1.21.5-R0.1-SNAPSHOT"
 nexo = "com.nexomc:nexo:1.6.0"
 oraxen = "io.th0rgal:oraxen:1.190.0"
 itemsadder = "dev.lone:api-itemsadder:4.0.10"
