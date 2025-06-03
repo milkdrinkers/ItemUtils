@@ -139,6 +139,21 @@ public final class ItemUtils {
     }
 
     /**
+     * Check if an item stack matches the item id (is the same custom item).
+     *
+     * @param itemStack the item stack
+     * @param itemId2   the item id
+     * @return boolean
+     */
+    public static boolean match(final @NotNull ItemStack itemStack, final @NotNull String itemId2) {
+        final String itemId1 = parse(itemStack);
+        final ItemProvider provider1 = getProvider(itemStack);
+        final ItemProvider provider2 = getProvider(itemId2);
+
+        return provider1.equals(provider2) && stripNamespace(itemId1).equals(stripNamespace(itemId2));
+    }
+
+    /**
      * Strip the namespace out of the item id. {@code E.g. "minecraft:stone" will return "stone", "nexo:golden_apple" will return "golden_apple"}
      *
      * @param itemId the item id
