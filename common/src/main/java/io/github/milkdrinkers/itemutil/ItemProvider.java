@@ -39,7 +39,7 @@ import java.util.Objects;
 public enum ItemProvider {
     ORAXEN("Oraxen", List.of("oraxen")),
     NEXO("Nexo", List.of("nexo", "oraxen")),
-    ITEMSADDER("ItemsAdder", List.of("itemsadder")),
+    ITEMSADDER("ItemsAdder", List.of("itemsadder", "ia")),
     VANILLA(List.of("minecraft")); // Order matters here! The order is important for iterating the enum.
 
     private final String pluginName;
