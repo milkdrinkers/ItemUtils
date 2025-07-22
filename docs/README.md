@@ -15,6 +15,9 @@
         <img alt="GitHub Issues" src="https://img.shields.io/github/issues/milkdrinkers/ItemUtils?style=for-the-badge&labelColor=141417">
     </a>
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/milkdrinkers/ItemUtils?style=for-the-badge&labelColor=141417">
+    <a href="https://discord.gg/cG5uWvUcM6">
+        <img alt="Discord Server" src="https://img.shields.io/discord/1008300159333040158?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&labelColor=141417&color=%235865F2">
+    </a>
 </p>
 
 **ItemUtils** is a simple set of utility classes for working with custom item plugins on PaperMC servers. It's intended purpose is to make adding custom item support to your plugins effortless.
