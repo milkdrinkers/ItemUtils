@@ -132,3 +132,10 @@ place where all feel welcome to participate.
 
 You can find the license the source code and all assets are under [here](../LICENSE). Additionally, contributors agree
 to the Contributor License Agreement \(*CLA*\) found [here](CONTRIBUTOR_LICENSE_AGREEMENT.md).
+
+---
+
+## 🔥 Consuming Projects
+
+Here is a list of known projects using ItemUtils:
+- (*Add your project here!*)
