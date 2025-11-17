@@ -1,26 +1,31 @@
-<h1 style="text-align:center;">ItemUtils</h1>
+<div align="center">
+  <h1>ItemUtils</h1>
+    
+  _**ItemUtils** is a simple set of utility classes for working with custom item plugins on PaperMC servers. It's intended purpose is to make adding custom item support to your plugins effortless._
 
-<p style="text-align:center;">
-    <a href="https://github.com/milkdrinkers/ItemUtils/blob/main/LICENSE">
-        <img alt="GitHub License" src="https://img.shields.io/github/license/milkdrinkers/ItemUtils?style=for-the-badge&color=blue&labelColor=141417">
-    </a>
-    <a href="https://central.sonatype.com/artifact/io.github.milkdrinkers/itemutils">
-        <img alt="Maven Central Version" src="https://img.shields.io/maven-central/v/io.github.milkdrinkers/itemutils?style=for-the-badge&labelColor=141417">
-    </a>
-    <a href="https://javadoc.io/doc/io.github.milkdrinkers/itemutils">
-        <img alt="Javadoc" src="https://img.shields.io/badge/JAVADOC-8A2BE2?style=for-the-badge&labelColor=141417">
-    </a>
-    <img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/milkdrinkers/ItemUtils/ci.yml?style=for-the-badge&labelColor=141417">
-    <a href="https://github.com/milkdrinkers/ItemUtils/issues">
-        <img alt="GitHub Issues" src="https://img.shields.io/github/issues/milkdrinkers/ItemUtils?style=for-the-badge&labelColor=141417">
-    </a>
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/milkdrinkers/ItemUtils?style=for-the-badge&labelColor=141417">
-    <a href="https://discord.gg/cG5uWvUcM6">
-        <img alt="Discord Server" src="https://img.shields.io/discord/1008300159333040158?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&labelColor=141417&color=%235865F2">
-    </a>
-</p>
+<br>
+<div>
+<a href="https://github.com/milkdrinkers/ItemUtils/blob/main/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/milkdrinkers/ItemUtils?style=for-the-badge&color=blue&labelColor=141417">
+</a>
+<a href="https://central.sonatype.com/artifact/io.github.milkdrinkers/itemutils">
+    <img alt="Maven Central Version" src="https://img.shields.io/maven-central/v/io.github.milkdrinkers/itemutils?style=for-the-badge&labelColor=141417">
+</a>
+<a href="https://javadoc.io/doc/io.github.milkdrinkers/itemutils">
+    <img alt="Javadoc" src="https://img.shields.io/badge/JAVADOC-8A2BE2?style=for-the-badge&labelColor=141417">
+</a>
+<img alt="GitHub Actions Workflow Status" src="https://img.shields.io/github/actions/workflow/status/milkdrinkers/ItemUtils/ci.yml?style=for-the-badge&labelColor=141417">
+<br>
 
-**ItemUtils** is a simple set of utility classes for working with custom item plugins on PaperMC servers. It's intended purpose is to make adding custom item support to your plugins effortless.
+<a href="https://github.com/milkdrinkers/ItemUtils/issues">
+    <img alt="GitHub Issues" src="https://img.shields.io/github/issues/milkdrinkers/ItemUtils?style=for-the-badge&labelColor=141417">
+</a>
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/milkdrinkers/ItemUtils?style=for-the-badge&labelColor=141417">
+<a href="https://discord.gg/cG5uWvUcM6">
+    <img alt="Discord Server" src="https://img.shields.io/discord/1008300159333040158?style=for-the-badge&logo=discord&logoColor=ffffff&label=discord&labelColor=141417&color=%235865F2">
+</a>
+</div>
+</div>
 
 ---
 
